@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Conditional Statements
 After the lesson, you will understand:
 + What conditional statements are
