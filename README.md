@@ -61,4 +61,4 @@ Here is a list of all the Logical Operators and what they do:
 
 <img src="https://raw.githubusercontent.com/learn-co-curriculum/cssi-2.5-conditional-statements/master/js-logical-operators.png">
 
-<a href='https://learn.co/lessons/cssi-2-javascript-conditionals-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-javascript-conditionals-walkthrough' title='Conditional Statements'>Conditional Statements</a> on Learn.co and start learning to code for free.</p>
